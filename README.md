@@ -58,6 +58,7 @@
     MongoDB
     NodeJS
     Fastify
+    Mongoose
     Postman
     
     
